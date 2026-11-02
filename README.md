@@ -7,4 +7,4 @@
 
 
 ### Note 
-This is a lite version a full heavy version available in this repo <a href="https://spoilpetal.github.io/svg-vibe-studio-animate">Svg-vibe-studio-animate</a>
+This is a lite version a full heavy version available in this repo <a href="https://github.com/spoilpetal/svg-vibe-studio-animate">Svg-vibe-studio-animate</a>
